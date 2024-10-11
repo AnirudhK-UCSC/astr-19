@@ -1,0 +1,2 @@
+print('Anirudh Kumar')
+print('My favorite movie is the new version of Murder on the Orient Express which is a murder mystery movie srrounding a detective named Hercules Pworow. My favorite food is a dish called sizzling rice soup.')
